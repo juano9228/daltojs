@@ -1,0 +1,1 @@
+alert("Examples about if");
