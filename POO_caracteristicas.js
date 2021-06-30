@@ -3,7 +3,7 @@ alert("POO caracteristicas");
 aquellas que lo distinguen de los demás tipos de objetos y que logran 
 definir límites conceptuales respecto a quien
 está haciendo dicha abstracción del objeto..*/
-/*---Modulacion: Separar un gran problema en partes*/
+/*---Modulacion: Ceparar un gran problema en partes*/
 /*----Encapsulamiento: Que los datos esten protegidos */
 /*Polimorfismo: Capacidad que tiene un objeto de comprtarse
 distinto por sus propiedades,*/
@@ -76,7 +76,7 @@ class Animal{
 //---###HERENCIA---###
 /*Una clase que va a tomar todo lo qu epuede hacer 
 la otra clase y agrgarle coss nuevas*/
-//NO se puede tenr un objeto ocn le mismo nombre de la clase
+//NO se puede tener un objeto con le mismo nombre de la clase
 
 class Perro extends Animal{
 	constructor(especie,edad,color,raza){
