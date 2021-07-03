@@ -55,12 +55,10 @@ resultado = cadena.padEnd(10,"j");
 document.write(resultado);*/
 
 //----------------------####------------------------------
-//split
+/*split
 //
 let cadena = "hola como estas";
 //let cadena2 = "";
 
 resultado = cadena.split("como");
-
-
-document.write(resultado[0]);
+document.write(resultado[0]);*/
